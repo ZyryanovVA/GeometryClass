@@ -1,0 +1,12 @@
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\bin\Debug\net6.0\GeometryClass.deps.json
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\bin\Debug\net6.0\GeometryClass.dll
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\bin\Debug\net6.0\GeometryClass.pdb
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\obj\Debug\net6.0\GeometryClass.csproj.AssemblyReference.cache
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\obj\Debug\net6.0\GeometryClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\obj\Debug\net6.0\GeometryClass.AssemblyInfoInputs.cache
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\obj\Debug\net6.0\GeometryClass.AssemblyInfo.cs
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\obj\Debug\net6.0\GeometryClass.csproj.CoreCompileInputs.cache
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\obj\Debug\net6.0\GeometryClass.dll
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\obj\Debug\net6.0\refint\GeometryClass.dll
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\obj\Debug\net6.0\GeometryClass.pdb
+C:\Users\zyrya\source\repos\GeometryClass\GeometryClass\obj\Debug\net6.0\ref\GeometryClass.dll
